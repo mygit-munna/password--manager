@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "password-manager-b3e8e"
+  },
+  "targets": {
+    "password-manager-b3e8e": {
+      "hosting": {
+        "password-manager": [
+          "password-manager-b3e8e"
+        ]
+      }
+    }
+  }
+}

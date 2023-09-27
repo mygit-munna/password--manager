@@ -1,0 +1,13 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "hosting": [
+    {
+      "target": "password-manager",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
